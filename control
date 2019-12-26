@@ -1,0 +1,9 @@
+Package: fun.tylerd3v.switchmode
+Name: SwitchMode
+Depends: mobilesubstrate, firmware (>=11.0), ws.hbang.common (>=1.13)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Toogle Mute Switch 5 Times to Enter Safe Mode
+Maintainer: TylerD3V
+Author: TylerD3V
+Section: Tweaks
